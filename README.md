@@ -7,7 +7,7 @@ python -m venv myenv
 myenv\Scripts\activate
 
 ## Paso 4: Instalar las librerias del archivo 
-requirements.txt 
+pip install -r requirements.txt
 
 ## Paso 5: Luego descargar el csv mas reciente de la siguiente url:
 
